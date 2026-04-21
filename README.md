@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Spideykook
-- 👀 I’m interested in coding in python
-- 🌱 I’m currently learning python and C
+- 👋 Hi, I’m Bedaanntica
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python, C,c++
 - 😄 Pronouns: she/her
 
 <!---
